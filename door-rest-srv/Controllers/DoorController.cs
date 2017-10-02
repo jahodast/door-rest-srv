@@ -12,7 +12,7 @@ namespace door_rest_srv.Controllers
         // GET: api/Door
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "Door 1", "Door 2" };
         }
 
         // GET: api/Door/5
